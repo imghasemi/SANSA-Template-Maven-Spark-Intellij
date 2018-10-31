@@ -28,7 +28,7 @@ git clone https://github.com/imghasemi/SANSA-Template-Maven-Spark-Intellij.git
 ![alt text](https://raw.githubusercontent.com/imghasemi/SANSA-Template-Maven-Spark-Intellij/master/img/img2.png)
 
 
-**Step 5**: Download `rdf.nt` from [Here](https://raw.githubusercontent.com/SANSA-Stack/SANSA-Examples/develop/sansa-examples-spark/src/main/resources/rdf.nt) then put the file inside the `reources` folder if it does not exists there. Then add the `--input=src/main/resources/rdf.nt` in the arguments as below:
+**Step 5**: Download `rdf.nt` from [Here](https://raw.githubusercontent.com/SANSA-Stack/SANSA-Examples/develop/sansa-examples-spark/src/main/resources/rdf.nt) then put the file inside the `resources` folder if it does not exists there. Then add the `--input=src/main/resources/rdf.nt` in the arguments as below:
 
 ![alt text](https://raw.githubusercontent.com/imghasemi/SANSA-Template-Maven-Spark-Intellij/master/img/img3.png)
 
