@@ -11,7 +11,7 @@ How to use it in IntelliJ IDE
 
 ```
 cd $HOME/IdeaProjects/
-git clone https://github.com/SANSA-Stack/SANSA-Template-Maven-Spark.git
+git clone https://github.com/imghasemi/SANSA-Template-Maven-Spark-Intellij.git
 
 ````
 
