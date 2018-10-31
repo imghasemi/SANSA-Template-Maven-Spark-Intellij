@@ -17,7 +17,7 @@ git clone https://github.com/SANSA-Stack/SANSA-Template-Maven-Spark.git
 
 **Step 2**: The subsequent steps depend on your IDE which we specifically explain the intelliJ IDE way to get run the project. Therefore Open IntelliJ application.
 
-Step 3: In the third step you must select the root directory in the project with is `SANSA-Template-Maven-Spark`. Then as maven plugins are installed inside the IDE you see that the project automatically starts to include all the dependencies in the `pom.xml` file which is located in the root.
+**Step 3**: In the third step you must select the root directory in the project with is `SANSA-Template-Maven-Spark`. Then as maven plugins are installed inside the IDE you see that the project automatically starts to include all the dependencies in the `pom.xml` file which is located in the root.
 
 ![alt text](https://raw.githubusercontent.com/imghasemi/SANSA-Template-Maven-Spark-Intellij/master/img/img1.png)
 
@@ -40,7 +40,7 @@ Step 3: In the third step you must select the root directory in the project with
 
 Expected output if the configuration is correct:
 ----------
-This template get run the `TripleReader.scala` example. The app read the RDF data then take first 5 inputs and return. Here is an example of the output:
+This template get run the `TripleReader.scala` example. The app read the `RDF` data then takes first 5 inputs and return. Here is an example of the output:
 
 ![alt text](https://raw.githubusercontent.com/imghasemi/SANSA-Template-Maven-Spark-Intellij/master/img/img5.png)
 
